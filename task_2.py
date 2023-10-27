@@ -32,5 +32,5 @@ import re
 
 def get_plate_type(plate):
     # ваше решение:
-
+#К СОЖАЛЕНИЮ НЕ СДЕЛАЛ
     return "Fail!"
